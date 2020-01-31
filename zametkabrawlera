@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Заметка Бравлера</title>
+</head>
+<body bgcolor="SteelBlue">
+<font color="white" face="Lilita One" size="+3">
+<p aling=center>
+<b><h2>Заметка Бравлера</h2></b></font></p>
+<font color="white" face="Lilita One" size="+3">
+<ul>
+<p>На данном сайте можно узнать о всех персонажах Игры Brawl Stars</p>
+<p><a href="шелли.html">Шелли <color="white"> <img src="shelly.png"width=100></a></p>
+<p><a href="нита.html">Нита <img src="nita1.png"width=100></a></p>
+<p><a href="кольт.html">Кольт <img src="colt1.png"width=100></a></p>
+<br><p><Li>123
+</body></html>
